@@ -23,7 +23,7 @@ Este é um programa em Java para converter moedas utilizando uma API de taxas de
 1. Clone o repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/conversor-de-moeda.git
+   git clone https://github.com/igorpereirag/conversor-de-moeda.git
    ```
 
 2. Abra o projeto em sua IDE Java preferida.
