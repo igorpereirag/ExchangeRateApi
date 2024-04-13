@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class ConvertTo {
 
-    private final Scanner scanner; // Declaração do Scanner como atributo da classe
+    private final Scanner scanner; 
 
     public ConvertTo() {
-        this.scanner = new Scanner(System.in); // Inicialização do Scanner no construtor
+        this.scanner = new Scanner(System.in); 
     }
 
     public void convertUSDtoARS(ConversionRateRecord response) {
